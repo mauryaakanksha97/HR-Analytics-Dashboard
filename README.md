@@ -94,7 +94,7 @@ The dataset contains employee information including:
 - Job satisfaction plays a significant role in employee retention.
 
 ### Dashboard Preview
-![HR Analytics Dashboard](Images/Dashboard.png)
+![HR Analytics Dashboard](Dashboard.png)
 ```
 ```
 ## Skills Demonstrated
