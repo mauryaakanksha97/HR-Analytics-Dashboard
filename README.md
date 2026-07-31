@@ -114,9 +114,4 @@ The dataset contains employee information including:
 - Dashboard Design
 - Data Visualization
 
-## Future Enhancements
 
-- Predict employee attrition using Machine Learning.
-- Add drill-through reports in Power BI.
-- Integrate real-time HR data.
-- Build department-wise retention prediction models.
